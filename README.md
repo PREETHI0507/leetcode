@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PREETHI0507/leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/PREETHI0507/leetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PREETHI0507/leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PREETHI0507/leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PREETHI0507/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
