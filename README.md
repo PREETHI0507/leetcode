@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/PREETHI0507/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PREETHI0507/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/PREETHI0507/leetcode/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PREETHI0507/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PREETHI0507/leetcode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PREETHI0507/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PREETHI0507/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
