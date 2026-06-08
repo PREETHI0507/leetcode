@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PREETHI0507/leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/PREETHI0507/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/PREETHI0507/leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/PREETHI0507/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PREETHI0507/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PREETHI0507/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PREETHI0507/leetcode/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PREETHI0507/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/PREETHI0507/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PREETHI0507/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PREETHI0507/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/PREETHI0507/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/PREETHI0507/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PREETHI0507/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PREETHI0507/leetcode/tree/master/0229-majority-element-ii) |
