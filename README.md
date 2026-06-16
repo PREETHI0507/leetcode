@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PREETHI0507/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PREETHI0507/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PREETHI0507/leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/PREETHI0507/leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/PREETHI0507/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PREETHI0507/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PREETHI0507/leetcode/tree/master/0229-majority-element-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/PREETHI0507/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PREETHI0507/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/PREETHI0507/leetcode/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/PREETHI0507/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
